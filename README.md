@@ -1,1 +1,1 @@
-# Build-a-Static-Web-Page-Using-HTML-CSS-and-Bootstrap
+# Build a Static Web Page Using HTML, CSS, and Bootstrap
